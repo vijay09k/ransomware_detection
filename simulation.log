@@ -1,0 +1,236 @@
+2025-04-22 13:41:49,101 - INFO - Simulation started for URL: https://google.com
+2025-04-22 13:41:52,507 - INFO - Page loaded successfully.
+2025-04-22 13:41:52,507 - ERROR - Simulation failed: 'WebDriver' object has no attribute 'find_elements_by_tag_name'
+2025-04-22 13:41:54,716 - INFO - Browser session ended.
+2025-04-22 13:46:45,793 - INFO - Simulation started for URL: https://google.com
+2025-04-22 13:46:52,965 - INFO - Page loaded successfully.
+2025-04-22 13:46:52,966 - ERROR - Simulation failed: 'WebDriver' object has no attribute 'find_elements_by_tag_name'
+2025-04-22 13:46:55,204 - INFO - Browser session ended.
+2025-04-22 13:55:34,887 - INFO - Simulation started for URL: https://google.com
+2025-04-22 13:56:11,354 - INFO - Page loaded successfully.
+2025-04-22 13:56:11,370 - INFO - Found 35 links on the page.
+2025-04-22 13:56:11,468 - INFO - Clicking link 1: https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header
+2025-04-22 13:57:53,388 - WARNING - Failed to click link 2: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75A575355+78597]
+	GetHandleVerifier [0x00007FF75A5753B0+78688]
+	(No symbol) [0x00007FF75A3291AA]
+	(No symbol) [0x00007FF75A33F524]
+	(No symbol) [0x00007FF75A33DFF3]
+	(No symbol) [0x00007FF75A3317E9]
+	(No symbol) [0x00007FF75A331963]
+	(No symbol) [0x00007FF75A32F66F]
+	(No symbol) [0x00007FF75A333EAC]
+	(No symbol) [0x00007FF75A3D04AB]
+	(No symbol) [0x00007FF75A3A70EA]
+	(No symbol) [0x00007FF75A3CF2BB]
+	(No symbol) [0x00007FF75A3A6EC3]
+	(No symbol) [0x00007FF75A3703F8]
+	(No symbol) [0x00007FF75A371163]
+	GetHandleVerifier [0x00007FF75A81EF0D+2870973]
+	GetHandleVerifier [0x00007FF75A8196B8+2848360]
+	GetHandleVerifier [0x00007FF75A836993+2967875]
+	GetHandleVerifier [0x00007FF75A59019A+188746]
+	GetHandleVerifier [0x00007FF75A59847F+222255]
+	GetHandleVerifier [0x00007FF75A57D2D4+111236]
+	GetHandleVerifier [0x00007FF75A57D482+111666]
+	GetHandleVerifier [0x00007FF75A5635A9+5465]
+	BaseThreadInitThunk [0x00007FF918F2259D+29]
+	RtlUserThreadStart [0x00007FF91A06AF58+40]
+
+2025-04-22 13:57:53,390 - WARNING - Failed to click link 3: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75A575355+78597]
+	GetHandleVerifier [0x00007FF75A5753B0+78688]
+	(No symbol) [0x00007FF75A3291AA]
+	(No symbol) [0x00007FF75A33F524]
+	(No symbol) [0x00007FF75A33DFF3]
+	(No symbol) [0x00007FF75A3317E9]
+	(No symbol) [0x00007FF75A331963]
+	(No symbol) [0x00007FF75A32F66F]
+	(No symbol) [0x00007FF75A333EAC]
+	(No symbol) [0x00007FF75A3D04AB]
+	(No symbol) [0x00007FF75A3A70EA]
+	(No symbol) [0x00007FF75A3CF2BB]
+	(No symbol) [0x00007FF75A3A6EC3]
+	(No symbol) [0x00007FF75A3703F8]
+	(No symbol) [0x00007FF75A371163]
+	GetHandleVerifier [0x00007FF75A81EF0D+2870973]
+	GetHandleVerifier [0x00007FF75A8196B8+2848360]
+	GetHandleVerifier [0x00007FF75A836993+2967875]
+	GetHandleVerifier [0x00007FF75A59019A+188746]
+	GetHandleVerifier [0x00007FF75A59847F+222255]
+	GetHandleVerifier [0x00007FF75A57D2D4+111236]
+	GetHandleVerifier [0x00007FF75A57D482+111666]
+	GetHandleVerifier [0x00007FF75A5635A9+5465]
+	BaseThreadInitThunk [0x00007FF918F2259D+29]
+	RtlUserThreadStart [0x00007FF91A06AF58+40]
+
+2025-04-22 13:57:53,393 - WARNING - Failed to click link 4: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75A575355+78597]
+	GetHandleVerifier [0x00007FF75A5753B0+78688]
+	(No symbol) [0x00007FF75A3291AA]
+	(No symbol) [0x00007FF75A33F524]
+	(No symbol) [0x00007FF75A33DFF3]
+	(No symbol) [0x00007FF75A3317E9]
+	(No symbol) [0x00007FF75A331963]
+	(No symbol) [0x00007FF75A32F66F]
+	(No symbol) [0x00007FF75A333EAC]
+	(No symbol) [0x00007FF75A3D04AB]
+	(No symbol) [0x00007FF75A3A70EA]
+	(No symbol) [0x00007FF75A3CF2BB]
+	(No symbol) [0x00007FF75A3A6EC3]
+	(No symbol) [0x00007FF75A3703F8]
+	(No symbol) [0x00007FF75A371163]
+	GetHandleVerifier [0x00007FF75A81EF0D+2870973]
+	GetHandleVerifier [0x00007FF75A8196B8+2848360]
+	GetHandleVerifier [0x00007FF75A836993+2967875]
+	GetHandleVerifier [0x00007FF75A59019A+188746]
+	GetHandleVerifier [0x00007FF75A59847F+222255]
+	GetHandleVerifier [0x00007FF75A57D2D4+111236]
+	GetHandleVerifier [0x00007FF75A57D482+111666]
+	GetHandleVerifier [0x00007FF75A5635A9+5465]
+	BaseThreadInitThunk [0x00007FF918F2259D+29]
+	RtlUserThreadStart [0x00007FF91A06AF58+40]
+
+2025-04-22 13:57:53,395 - WARNING - Failed to click link 5: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75A575355+78597]
+	GetHandleVerifier [0x00007FF75A5753B0+78688]
+	(No symbol) [0x00007FF75A3291AA]
+	(No symbol) [0x00007FF75A33F524]
+	(No symbol) [0x00007FF75A33DFF3]
+	(No symbol) [0x00007FF75A3317E9]
+	(No symbol) [0x00007FF75A331963]
+	(No symbol) [0x00007FF75A32F66F]
+	(No symbol) [0x00007FF75A333EAC]
+	(No symbol) [0x00007FF75A3D04AB]
+	(No symbol) [0x00007FF75A3A70EA]
+	(No symbol) [0x00007FF75A3CF2BB]
+	(No symbol) [0x00007FF75A3A6EC3]
+	(No symbol) [0x00007FF75A3703F8]
+	(No symbol) [0x00007FF75A371163]
+	GetHandleVerifier [0x00007FF75A81EF0D+2870973]
+	GetHandleVerifier [0x00007FF75A8196B8+2848360]
+	GetHandleVerifier [0x00007FF75A836993+2967875]
+	GetHandleVerifier [0x00007FF75A59019A+188746]
+	GetHandleVerifier [0x00007FF75A59847F+222255]
+	GetHandleVerifier [0x00007FF75A57D2D4+111236]
+	GetHandleVerifier [0x00007FF75A57D482+111666]
+	GetHandleVerifier [0x00007FF75A5635A9+5465]
+	BaseThreadInitThunk [0x00007FF918F2259D+29]
+	RtlUserThreadStart [0x00007FF91A06AF58+40]
+
+2025-04-22 13:57:53,395 - INFO - Simulation activity completed.
+2025-04-22 13:57:55,668 - INFO - Browser session ended.
+2025-04-22 14:08:38,256 - INFO - Simulation started for URL: https://instagram.com
+2025-04-22 14:08:42,390 - INFO - Page loaded successfully.
+2025-04-22 14:08:42,404 - INFO - Found 19 links on the page.
+2025-04-22 14:08:42,414 - INFO - Clicking link 1: https://www.instagram.com/accounts/password/reset/
+2025-04-22 14:08:42,484 - INFO - Clicking link 2: https://www.instagram.com/accounts/emailsignup/
+2025-04-22 14:08:42,551 - WARNING - Failed to click link 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75A575355+78597]
+	GetHandleVerifier [0x00007FF75A5753B0+78688]
+	(No symbol) [0x00007FF75A3291AA]
+	(No symbol) [0x00007FF75A330ABC]
+	(No symbol) [0x00007FF75A333EAC]
+	(No symbol) [0x00007FF75A3D04AB]
+	(No symbol) [0x00007FF75A3A70EA]
+	(No symbol) [0x00007FF75A3CF2BB]
+	(No symbol) [0x00007FF75A3A6EC3]
+	(No symbol) [0x00007FF75A3703F8]
+	(No symbol) [0x00007FF75A371163]
+	GetHandleVerifier [0x00007FF75A81EF0D+2870973]
+	GetHandleVerifier [0x00007FF75A8196B8+2848360]
+	GetHandleVerifier [0x00007FF75A836993+2967875]
+	GetHandleVerifier [0x00007FF75A59019A+188746]
+	GetHandleVerifier [0x00007FF75A59847F+222255]
+	GetHandleVerifier [0x00007FF75A57D2D4+111236]
+	GetHandleVerifier [0x00007FF75A57D482+111666]
+	GetHandleVerifier [0x00007FF75A5635A9+5465]
+	BaseThreadInitThunk [0x00007FF918F2259D+29]
+	RtlUserThreadStart [0x00007FF91A06AF58+40]
+
+2025-04-22 14:08:42,555 - WARNING - Failed to click link 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75A575355+78597]
+	GetHandleVerifier [0x00007FF75A5753B0+78688]
+	(No symbol) [0x00007FF75A3291AA]
+	(No symbol) [0x00007FF75A330ABC]
+	(No symbol) [0x00007FF75A333EAC]
+	(No symbol) [0x00007FF75A3D04AB]
+	(No symbol) [0x00007FF75A3A70EA]
+	(No symbol) [0x00007FF75A3CF2BB]
+	(No symbol) [0x00007FF75A3A6EC3]
+	(No symbol) [0x00007FF75A3703F8]
+	(No symbol) [0x00007FF75A371163]
+	GetHandleVerifier [0x00007FF75A81EF0D+2870973]
+	GetHandleVerifier [0x00007FF75A8196B8+2848360]
+	GetHandleVerifier [0x00007FF75A836993+2967875]
+	GetHandleVerifier [0x00007FF75A59019A+188746]
+	GetHandleVerifier [0x00007FF75A59847F+222255]
+	GetHandleVerifier [0x00007FF75A57D2D4+111236]
+	GetHandleVerifier [0x00007FF75A57D482+111666]
+	GetHandleVerifier [0x00007FF75A5635A9+5465]
+	BaseThreadInitThunk [0x00007FF918F2259D+29]
+	RtlUserThreadStart [0x00007FF91A06AF58+40]
+
+2025-04-22 14:08:42,558 - WARNING - Failed to click link 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75A575355+78597]
+	GetHandleVerifier [0x00007FF75A5753B0+78688]
+	(No symbol) [0x00007FF75A3291AA]
+	(No symbol) [0x00007FF75A330ABC]
+	(No symbol) [0x00007FF75A333EAC]
+	(No symbol) [0x00007FF75A3D04AB]
+	(No symbol) [0x00007FF75A3A70EA]
+	(No symbol) [0x00007FF75A3CF2BB]
+	(No symbol) [0x00007FF75A3A6EC3]
+	(No symbol) [0x00007FF75A3703F8]
+	(No symbol) [0x00007FF75A371163]
+	GetHandleVerifier [0x00007FF75A81EF0D+2870973]
+	GetHandleVerifier [0x00007FF75A8196B8+2848360]
+	GetHandleVerifier [0x00007FF75A836993+2967875]
+	GetHandleVerifier [0x00007FF75A59019A+188746]
+	GetHandleVerifier [0x00007FF75A59847F+222255]
+	GetHandleVerifier [0x00007FF75A57D2D4+111236]
+	GetHandleVerifier [0x00007FF75A57D482+111666]
+	GetHandleVerifier [0x00007FF75A5635A9+5465]
+	BaseThreadInitThunk [0x00007FF918F2259D+29]
+	RtlUserThreadStart [0x00007FF91A06AF58+40]
+
+2025-04-22 14:08:42,559 - INFO - Simulation activity completed.
+2025-04-22 14:08:44,726 - INFO - Browser session ended.
+2025-04-22 14:23:47,946 - INFO - Simulation started for URL: https://google.com
+2025-04-22 14:23:59,694 - INFO - Page loaded successfully.
+2025-04-22 14:23:59,835 - INFO - Found 25 links on the page.
+2025-04-22 14:23:59,864 - INFO - Clicking link 1: https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header
+2025-04-22 14:24:20,279 - INFO - Clicking link 2: https://about.google/
+2025-04-22 14:24:30,378 - WARNING - Failed to click link 2: Message: 
+
+2025-04-22 14:24:30,408 - INFO - Clicking link 3: https://about.google/
+2025-04-22 14:24:37,808 - INFO - Clicking link 4: https://about.google/
+2025-04-22 14:24:44,853 - INFO - Clicking link 5: https://about.google/products/
+2025-04-22 14:24:52,266 - INFO - Simulation activity completed.
+2025-04-22 14:24:54,528 - INFO - Browser session ended.
+2025-04-23 23:47:16,294 - INFO - Simulation started for URL: https://google.com
+2025-04-23 23:47:17,290 - INFO - Page loaded successfully.
+2025-04-23 23:47:17,317 - INFO - Found 26 links on the page.
+2025-04-23 23:47:17,404 - INFO - Clicking link 1: https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header
+2025-04-23 23:47:21,820 - INFO - Clicking link 2: https://about.google/
+2025-04-23 23:47:32,269 - WARNING - Failed to click link 2: Message: 
+
+2025-04-23 23:47:32,291 - INFO - Clicking link 3: https://about.google/
+2025-04-23 23:47:35,262 - INFO - Clicking link 4: https://about.google/
+2025-04-23 23:47:37,754 - INFO - Clicking link 5: https://about.google/products/
+2025-04-23 23:47:40,312 - INFO - Simulation activity completed.
+2025-04-23 23:47:42,581 - INFO - Browser session ended.
